@@ -1,8 +1,52 @@
+Reflection 1
 The version control was not as interesting as the
 command prompt controls. The shortcuts like cmd
 ls and also editing the .bash file to insert a
 file address in order to create a command line
 short cut.
+
+Reflecion 2
 Version control can take you back to the last 
 working version and then you can track the
 changes that caused the problem.
+
+Reflection 3
+Manuall commiting has the benefit of control and
+being able to apply version control at logical
+points in the process. However, if you forget to
+commit then you have a lot of extra work.
+
+Reflections 4
+Files in projects commonly saved on git are
+related while files on Google Docs ar eindependent.
+
+Reflections 5
+Once you are in the git repository type git log
+to see at the commits that have been made to the
+file. When you have found the commit you are
+interested in then you can use git diff to compare
+two different files.
+
+Reflection 6
+By having such a robust versioning you can make
+large fundamental changes to your code and be sure that
+if you get something wrong you can easily go back
+to a working version. You will not break anything.
+
+Reflection 7
+It would be nice to start using git to version control
+the html and css files that I will be creating during
+the uadcity course.
+
+Git commands:
+diff [--staged]
+clone
+checkout [master]
+log
+init
+status
+add
+branch [-b branch_name]
+
+
+
