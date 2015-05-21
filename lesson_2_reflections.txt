@@ -1,0 +1,22 @@
+Reflection 1
+When you initialise a directory git places a
+file in the directory that will contain all
+the changes to the files. The directory is 
+then logged in git.
+
+Reflection 2
+The staging area forces you to consier the 
+relationhsip between changes that are being
+made.
+
+Reflection 3
+Branches are useful when you are trying 
+experimental changes that you are not yet
+sure you want included in the code.
+
+Reflection 4
+Drawing a branch diagram helps to visual
+the flow of the project and where the
+different branches leave the master.
+It is also a good way to identify 
+orphaned branches.
