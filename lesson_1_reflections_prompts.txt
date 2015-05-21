@@ -1,0 +1,8 @@
+The version control was not as interesting as the
+command prompt controls. The shortcuts like cmd
+ls and also editing the .bash file to insert a
+file address in order to create a command line
+short cut.
+Version control can take you back to the last 
+working version and then you can track the
+changes that caused the problem.
