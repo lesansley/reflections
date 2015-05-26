@@ -17,6 +17,19 @@ sure you want included in the code.
 Reflection 4
 Drawing a branch diagram helps to visual
 the flow of the project and where the
-different branches leave the master.
-It is also a good way to identify 
+different branches leave the master. So
+you can see which nodes are reachable by 
+each branch. It is also a good way to identify 
 orphaned branches.
+
+Reflection 5
+When two brances are merged then the changes
+that are common are kept and that which was
+discarded by either branch is deleted from 
+the final merged document.
+
+Reflection 6
+Automatic commits run the risk of introducing
+bugs and errors into the code but it is a much
+more effcient process that trying to match each
+change before merging.
