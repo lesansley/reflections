@@ -41,16 +41,21 @@ the uadcity course.
 Git commands:
 diff [--staged] [#id1 #id2]
 clone [url]
-checkout [branch_name] || [-b branch_name] (create new branch)
+checkout [branch_name] || [-b branch_name]
 log [--graph --oneline] [--stat]
 init
 status
 add [file_name]
-branch [-d branch_name] (delete)
+branch [-d branch_name]
 merge [master branch]
 show
-remote [add file_name remote_url] [-v]
+remote [add remote_name remote_url] [-v] (remote_name is 'origin' by convention)
+pull [remote_name branch_name]
+push [remote_name branch_name]
+fetch [remote_name] (when there are different copies locally and on GitHub - branches the local master at the last common node)
 
 -v (verbose)
+-b (create branch)
+-d (delete)
 
 
